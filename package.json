@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-downloader",
+  "version": "0.0.1",
+  "description": "A plugin to start system's default download manager.",
+  "cordova": {
+    "id": "cordova-plugin-downloader",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+hhttps://github.com/Whebcraft/cordova-plugin-downloader.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Whebcraft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Whebcraft/cordova-plugin-downloader/issues"
+  },
+  "homepage": "https://github.com/Whebcraft/cordova-plugin-downloader#readme"
+}

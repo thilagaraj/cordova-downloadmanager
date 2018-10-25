@@ -9,8 +9,6 @@
 
   <description>Cordova plugin for downloading files from server</description>
 
-  <repo>https://github.com/Whebcraft/cordova-plugin-downloader.git</repo>
-
   <keywords>plugin, download, mobile, cordova</keywords>
 
   <license>Apache 2.0 License</license>
